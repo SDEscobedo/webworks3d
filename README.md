@@ -1,13 +1,13 @@
 #  Web Works 3D
 Random Three.js models and other web 3d experiments.
 
-[Live site]()
+[Live site](https://webworks3d.netlify.app/)
 
 ## How to use
 Clone the repo
 
 ```
-git clone ...
+git clone https://github.com/SDEscobedo/webworks3d.git
 ```
 
 Install packages:
@@ -34,4 +34,4 @@ npm start
 * [threejs.org examples](https://threejs.org/examples/)
 
 ## Licence
-* Web Works 3D [MIT Lisence]().
+* Web Works 3D [MIT Lisence](https://github.com/SDEscobedo/webworks3d/blob/master/LICENSE).
